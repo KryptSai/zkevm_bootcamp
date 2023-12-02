@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# zkEVM_Bootcamp_homework
+This repo contains solutions to the home work problems at zkevm boot camp
+=======
 
 # Installing Zustlings
 
@@ -22,3 +26,4 @@ Where n is the number of the homework you are doing, i.e.
 
 
 
+>>>>>>> 0464106 (zkevm homeworks)
