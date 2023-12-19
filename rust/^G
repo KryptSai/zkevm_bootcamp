@@ -1,0 +1,77 @@
+zkevm homeworks
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# interactive rebase in progress; onto 02558c5
+# Last command done (1 command done):
+#    pick 0464106 zkevm homeworks
+# No commands remaining.
+# You are currently rebasing branch 'main' on '02558c5'.
+#
+# Changes to be committed:
+#	new file:   .all-contributorsrc
+#	new file:   .clog.toml
+#	new file:   .editorconfig
+#	new file:   .gitignore
+#	new file:   .gitpod.yml
+x#	new file:   .replit
+#	new file:   Cargo.lock
+#	new file:   Cargo.toml
+#	new file:   LICENSE
+#	modified:   README.md
+#	new file:   homeworks/homework3/functions/README.md
+#	new file:   homeworks/homework3/functions/functions1.rs
+#	new file:   homeworks/homework3/functions/functions2.rs
+#	new file:   homeworks/homework3/functions/functions3.rs
+#	new file:   homeworks/homework3/functions/functions4.rs
+#	new file:   homeworks/homework3/functions/functions5.rs
+#	new file:   homeworks/homework3/functions/mod.rs
+#	new file:   homeworks/homework3/if/README.md
+#	new file:   homeworks/homework3/if/if1.rs
+#	new file:   homeworks/homework3/if/if2.rs
+#	new file:   homeworks/homework3/if/mod.rs
+#	new file:   homeworks/homework3/primitive_types/README.md
+#	new file:   homeworks/homework3/primitive_types/mod.rs
+#	new file:   homeworks/homework3/primitive_types/primitive_types1.rs
+#	new file:   homeworks/homework3/primitive_types/primitive_types2.rs
+#	new file:   homeworks/homework3/primitive_types/primitive_types3.rs
+#	new file:   homeworks/homework3/primitive_types/primitive_types4.rs
+#	new file:   homeworks/homework3/primitive_types/primitive_types5.rs
+#	new file:   homeworks/homework3/primitive_types/primitive_types6.rs
+#	new file:   homeworks/homework3/strings/README.md
+#	new file:   homeworks/homework3/strings/mod.rs
+#	new file:   homeworks/homework3/strings/strings1.rs
+#	new file:   homeworks/homework3/strings/strings2.rs
+#	new file:   homeworks/homework3/variables/README.md
+#	new file:   homeworks/homework3/variables/mod.rs
+#	new file:   homeworks/homework3/variables/variables1.rs
+#	new file:   homeworks/homework3/variables/variables2.rs
+#	new file:   homeworks/homework3/variables/variables3.rs
+#	new file:   homeworks/homework3/variables/variables4.rs
+#	new file:   homeworks/homework3/variables/variables5.rs
+#	new file:   homeworks/homework3/variables/variables6.rs
+#	new file:   homeworks/mod.rs
+#	new file:   info.toml
+#	new file:   install.ps1
+#	new file:   install.sh
+#	new file:   src/exercise.rs
+#	new file:   src/lib.rs
+#	new file:   src/main.rs
+#	new file:   src/run.rs
+#	new file:   src/ui.rs
+#	new file:   src/verify.rs
+#	new file:   tests/fixture/failure/compFailure.rs
+#	new file:   tests/fixture/failure/compNoExercise.rs
+#	new file:   tests/fixture/failure/info.toml
+#	new file:   tests/fixture/failure/testFailure.rs
+#	new file:   tests/fixture/failure/testNotPassed.rs
+#	new file:   tests/fixture/state/finished_exercise.rs
+#	new file:   tests/fixture/state/info.toml
+#	new file:   tests/fixture/state/pending_exercise.rs
+#	new file:   tests/fixture/state/pending_test_exercise.rs
+#	new file:   tests/fixture/success/compSuccess.rs
+#	new file:   tests/fixture/success/info.toml
+#	new file:   tests/fixture/success/testSuccess.rs
+#	new file:   tests/integration_tests.rs
+#
